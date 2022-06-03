@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is Xue Xiang.
-- 🔭 I’m currently working on Windows application development.
-- 🌱 I’m currently learning WPF.
+This is XIAOXIONG.
