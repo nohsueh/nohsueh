@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 This is XIAOXIONG.
 
-动物世界有一个场面，一群梅花鹿在非洲大陆上奔跑着，后面是一群狮子，跑着跑着，有一只梅花鹿被抓住了，狮群们开始享用，鹿群们发现，有鹿被抓住后，就不再奔跑，看着狮群啃食着同族，日复一日，直至这个地球毁灭
+There is a scene in the animal world. A group of sika deer are running on the African continent, followed by a group of lions. Suddenly a sika deer was caught, and the lions began to enjoy it. The herds of deer found that after a deer was caught, they stopped running and watched the lions gnawing at their fellow clan, day after day, until the earth was destroyed.
