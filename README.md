@@ -1,10 +1,13 @@
-## Hi there 👋
+<h2> 
+  Hi there 👋
+
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/NOhsueh/count.svg" alt="" /></td>
   </tr>
 </table>
+</h2>
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>
   This is XIAOXIONG.
