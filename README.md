@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NOhsueh&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=NOhsueh&show_icons=true&theme=radical">
 </p>
 
 <table>
