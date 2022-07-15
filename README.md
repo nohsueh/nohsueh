@@ -1,3 +1,10 @@
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/NOhsueh/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 ## Hi there 👋
 
 <h2>
@@ -10,10 +17,3 @@ There is a scene in the Animal World. A group of sika deer are running on the Af
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NOhsueh&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true">
 </p>
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/NOhsueh/count.svg" alt="" /></td>
-  </tr>
-</table>
