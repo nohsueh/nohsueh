@@ -1,4 +1,4 @@
-<h2> 
+<h1> 
   Hi there 👋
   <table>
     <tr>
@@ -6,7 +6,7 @@
       <td><img src="https://profile-counter.glitch.me/NOhsueh/count.svg" alt="" /></td>
     </tr>
   </table>
-</h2>
+</h1>
 
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>
