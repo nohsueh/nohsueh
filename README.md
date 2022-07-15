@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is XIAOXIONG.
+#This is XIAOXIONG.
 
 There is a scene in the Animal World. A group of sika deer are running on the African continent, followed by a group of lions. Suddenly a sika deer was caught, and the lions began to enjoy it. The herds of deer found that after a deer was caught, they stopped running and watched the lions gnawing at their fellow clan, day after day, until the earth was destroyed.
