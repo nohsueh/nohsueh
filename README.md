@@ -16,4 +16,4 @@
   </p>
 </h2>
 
-<code>  There is a scene in the Animal World. A group of sika deer are running on the African continent, followed by a group of lions. Suddenly a sika deer was caught, and the lions began to enjoy it. The herds of deer found that after a deer was caught, they stopped running and watched the lions gnawing at their fellow clan, day after day, until the earth was destroyed.</code>
+<code  There is a scene in the animal world. A herd of sika deer runs across the continent, followed by a herd of lions. Suddenly, a sika deer is caught and the lions begin to enjoy it. When the herd noticed that the deer had been caught, they stopped running and watched the lion nibble on the deer. Day after day, until the earth is destroyed./>
