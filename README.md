@@ -1,6 +1,6 @@
-** Hi there 👋 **
+**Hi there 👋**
 
-** You are visitor **
+**You are visitor**
 
 <img src="https://profile-counter.glitch.me/NOhsueh/count.svg"/>
 
